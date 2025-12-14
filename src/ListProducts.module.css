@@ -1,0 +1,26 @@
+table{
+    border: solid none;
+    padding: 20px;
+    background-color: bisque;
+    border-radius: 5px;
+}
+th{
+    padding: 10px;
+}
+td{
+    padding: 8px;
+}
+
+input{
+    margin: 10px;
+    padding: 5px;
+    border: solid black;
+    border-radius: 5px;
+}
+
+button{
+    background-color: blueviolet;
+    padding: 10px;
+    width: 100px;
+    margin-left: 45px;
+}
